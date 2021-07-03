@@ -1,51 +1,10 @@
 # Stage1 - Image Classification
 
-<div align="center">
-    <h1>Formula Image Latex Recognition</h1>
-    <img src="assets/logo.png" alt="logo"/>
-    <br/>
-    <img src="https://img.shields.io/github/stars/pstage-ocr-team6/ocr-teamcode?color=yellow" alt="Star"/>
-    <img src="https://img.shields.io/github/forks/pstage-ocr-team6/ocr-teamcode?color=green" alt="Forks">
-    <img src="https://img.shields.io/github/issues/pstage-ocr-team6/ocr-teamcode?color=red" alt="Issues"/>
-    <img src="https://img.shields.io/github/license/pstage-ocr-team6/ocr-teamcode" alt="License"/>
-</div>
-
----
-
-## 📝 Table of Contents
-
-- [Latex Recognition Task](#-latex-recognition-task)
-- [File Structure](#-file-structure)
-  - [Code Folder](#code-folder)
-  - [Dataset Folder](#dataset-folder)
-- [Getting Started](#-getting-started)
-  - [Installation](#installation)
-  - [Download Dataset](#download-dataset)
-  - [Dataset Setting](#dataset-setting)
-  - [Create .env for wandb](#create-env-for-wandb)
-  - [Config Setting](#config-setting)
-- [Usage](#-usage)
-  - [Train](#train)
-  - [Inference](#inference)
-- [Demo](#-demo)
-- [References](#-references)
-- [Contributors](#-contributors)
-- [License](#-license)
-
----
-
-## ➗ Latex Recognition Task
-
-<div align="center">
-  <img src="assets/competition-overview.png" alt="Competition Overview"/>
-</div>
-
-수식 인식(Latex Recognition)은 **수식 이미지에서 LaTeX 포맷의 텍스트를 인식하는 태스크**로, 문자 인식(Character Recognition)과 달리 수식 인식의 경우 `좌 → 우` 뿐만 아니라 Multi-line에 대해서 `위 → 아래`에 대한 순서 패턴 학습도 필요하다는 특징을 가집니다.
-
-<br/>
+## Overview
+마스크 분류를 위한 코드입니다. 인물 이미지에서 마스크 착용 여부, 나이, 성별을 판별합니다.
 
 ## 📁 File Structure
-
+Cancel changes
 ### Code Folder
 
 ```text
