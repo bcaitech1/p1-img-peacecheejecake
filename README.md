@@ -171,8 +171,6 @@ python main.py --eval --state_path [--config]
 지정된 validation dataset에 대해 validation을 별도로 실행할 수 있습니다. 
 config에 따라 별도의 validation file을 불러오거나, train dataset을 split합니다.
 
-## 👩‍💻 Contributor
+## Contributor
 
-|**[민지원](https://github.com/peacecheejecake)**                            |
-| :------------------------------------------------------------------------------------------------: |
-| [![Avatar](https://avatars.githubusercontent.com/u/29668380?v=4)](https://github.com/peacecheejecake) |
+[민지원](https://github.com/peacecheejecake)
