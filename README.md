@@ -159,7 +159,7 @@ python main.py --train [--config] [--state_path] [--empty_logs]
 
 - `--config`: config 파일 경로를 나타냅니다. 생략할 경우 `config/default.yaml`가 지정됩니다.
 - `--state_path`: 모델 checkpoint 경로입니다. 명시되는 경우에 이어서 학습이 진행됩니다.
-- `--empty_log`: 
+- `--empty_log`: 파일을 이용한 로깅을 할 때, 로그를 지웁니다.
 
 ### Inference
 
