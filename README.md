@@ -4,7 +4,6 @@
 마스크 분류를 위한 코드입니다. 인물 이미지에서 마스크 착용 여부, 나이, 성별을 판별합니다.
 
 ## File Structure
-### Code Folder
 
 ```text
 src/
